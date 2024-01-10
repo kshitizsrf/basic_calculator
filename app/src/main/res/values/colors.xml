@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="light_black">#1A1110</color>
+    <color name="charcoal">#36454F</color>
+
+    <color name="blue">#0000FF</color>
+    <color name="neon_blue">#1F51FF</color>
+    <color name="dark_blue">#00008B</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="round_gradient_button_start_color">#DC2424</color>
+    <color name="round_gradient_button_end_color">#4A569D</color>
+
+    <color name="cinnamon">#D27D2D</color>
+    <color name="copper">#B87333</color>
+    <color name="garnet">#9A2A2A</color>
+    <color name="khaki">#F0E68C</color>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CalculatorTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Your other theme attributes here -->
+        <item name="android:buttonStyle">@style/MyButtonStyle</item>
+    </style>
+
+    <style name="MyButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_tap</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:padding">5sp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:width">90sp</item>
+        <item name="android:height">90sp</item>
+    </style>
+
+</resources>
